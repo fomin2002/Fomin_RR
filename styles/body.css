@@ -1,0 +1,6 @@
+body {
+	background: #fefcee; 
+	background: linear-gradient(to top, #fefcee, #f1da36);
+	padding: 10px;
+	border: 1px solid #333;
+}
